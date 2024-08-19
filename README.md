@@ -1,5 +1,16 @@
-# printify-store-id-grabber
+# Store ID Grabber
 
+This script programmatically retrieves your store ID through an API call, so you don't have to search for it manually. Just provide your API key, run the script, and it will output your store ID.
 
+## Usage
 
-This script grabbs your store id programatically through API call so you do not have to go looking for it just input your api key type python storeid-grabber.py and it will then output your store id 
+1. Clone the repository or download the script.
+
+2. Make sure you have Python installed on your machine.
+
+3. Open your terminal and navigate to the directory where the script is located.
+
+4. Run the script by typing:
+
+   ```bash
+   python storeid-grabber.py
