@@ -1,0 +1,1 @@
+# printify-store-id-grabber
